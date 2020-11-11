@@ -2,7 +2,7 @@
 Personal Battle Planning Management Tool
 
 #How to contribute to this project
-A developer who want to provide their contribution to this project the must comply the following:
+A developer who want to provide their contribution to this project they must comply the following:<br>
 1.Fork this project from the central repo in their Github Accounts .
 2.Clone it in their local machines.
 3.Make some changes to what they want to contribute.

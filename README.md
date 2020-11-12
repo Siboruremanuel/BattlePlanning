@@ -10,3 +10,4 @@ A developer who want to provide their contributions to this project they must co
 5.Make pull request to the owner of the Project.<br>
 6.Respect MIT license.<br>
 7.Familiar with Versional control system.<br>
+8.Previous experience with Java programming language.<br>

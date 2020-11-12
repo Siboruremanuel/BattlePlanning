@@ -11,3 +11,4 @@ A developer who want to provide their contributions to this project they must co
 6.Respect MIT license.<br>
 7.Familiar with Versional control system.<br>
 8.Previous experience with Java programming language.<br>
+#Demonstrating Merge Conflicts<br>
